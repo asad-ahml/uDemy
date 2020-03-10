@@ -1,0 +1,6 @@
+C:\MarchPractice\uDemy\uDemy\bin\Debug\uDemy.exe.config
+C:\MarchPractice\uDemy\uDemy\bin\Debug\uDemy.exe
+C:\MarchPractice\uDemy\uDemy\bin\Debug\uDemy.pdb
+C:\MarchPractice\uDemy\uDemy\obj\Debug\uDemy.csprojAssemblyReference.cache
+C:\MarchPractice\uDemy\uDemy\obj\Debug\uDemy.exe
+C:\MarchPractice\uDemy\uDemy\obj\Debug\uDemy.pdb
